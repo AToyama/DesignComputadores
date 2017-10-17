@@ -1,0 +1,147 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GabrielRios/Documents/Insper/6Semestre/Design_computadores/Projeto1/simulation/qsim
+Ehard_block
+Z1 w1507653356
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 e`^h93R^CdmMEVe0e1VU_3
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx10 cycloneive 21 cycloneive_components 0 22 Q;lLU[K?fTJPSa^YaZf>B3
+R0
+Z8 8Relogio.vho
+Z9 FRelogio.vho
+l0
+L35
+VB]0;STalBkCB1_B4BXQDW2
+!s100 >mXi5[`cD`bFC`UBKA<om3
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1507653357
+!i10b 1
+Z12 !s108 1507653357.000000
+Z13 !s90 -work|work|Relogio.vho|
+Z14 !s107 Relogio.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 hard_block 0 22 B]0;STalBkCB1_B4BXQDW2
+l65
+L51
+Via>5o7W??azG@W@@eFOTF0
+!s100 [5;Wd8QGQ>@2NGoJ1I]Y43
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Erelogio
+R1
+R3
+R7
+R2
+Z17 DPx6 altera 11 dffeas_pack 0 22 >EJOc2K4@P4f?njWHdOcd0
+R4
+R5
+R6
+Z18 DPx6 altera 28 altera_primitives_components 0 22 14j`ZKHCzSI;]V?hmAE6_1
+R0
+R8
+R9
+l0
+L80
+V[bM`8CIWdm=XnoDRl7Phe3
+!s100 TCVGb1aoXod]oN_6LeIXh0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R3
+R7
+R2
+R17
+R4
+R5
+R6
+R18
+DEx4 work 7 relogio 0 22 [bM`8CIWdm=XnoDRl7Phe3
+l324
+L120
+VkfkaM=4giiW3z3WWjh8a71
+!s100 HVWkOC1ljzc^4`RM905<C2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Erelogio_vhd_vec_tst
+Z19 w1507653355
+R5
+R6
+R0
+Z20 8Waveform26.vwf.vht
+Z21 FWaveform26.vwf.vht
+l0
+L32
+VODR^0<49@mV9D?EZ1g_Lb3
+!s100 D2:bEbobeS_eGa>4]a1dE3
+R10
+32
+Z22 !s110 1507653358
+!i10b 1
+R12
+Z23 !s90 -work|work|Waveform26.vwf.vht|
+Z24 !s107 Waveform26.vwf.vht|
+!i113 1
+R15
+R16
+Arelogio_arch
+R5
+R6
+Z25 DEx4 work 19 relogio_vhd_vec_tst 0 22 ODR^0<49@mV9D?EZ1g_Lb3
+l55
+L34
+Z26 Vc8nmW`1zj3ZdNB6lM65<23
+Z27 !s100 5O39WiiVRaEmkYQbDO<<?2
+R10
+32
+R22
+!i10b 1
+R12
+R23
+R24
+!i113 1
+R15
+R16
